@@ -1,7 +1,5 @@
 package br.com.dio;
 
-import br.com.Conteudo;
-
 public class Curso extends Conteudo{
 
     private int cargaHoraria;

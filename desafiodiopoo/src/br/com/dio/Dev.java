@@ -2,8 +2,6 @@ package br.com.dio;
 
 import java.util.*;
 
-import br.com.Conteudo;
-
 public class Dev {
     private String nome;
     private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>();

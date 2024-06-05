@@ -6,8 +6,6 @@ import java.util.LinkedHashSet;
 import java.util.Objects;
 import java.util.Set;
 
-import br.com.Conteudo;
-
 public class Bootcamp {
     private String nome;
     private String descricao;

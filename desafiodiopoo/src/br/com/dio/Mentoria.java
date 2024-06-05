@@ -2,8 +2,6 @@ package br.com.dio;
 
 import java.time.LocalDate;
 
-import br.com.Conteudo;
-
 public class Mentoria extends Conteudo{
 
     private LocalDate data;
